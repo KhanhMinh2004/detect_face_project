@@ -17,6 +17,5 @@ documentation for details.
 
    utils
    train
-   detect
    capture
 
